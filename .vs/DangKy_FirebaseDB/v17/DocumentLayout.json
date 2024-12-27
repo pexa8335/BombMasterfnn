@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTMCB\\DOAN\\pexa2612\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|d:\\ltmcb\\doan\\pexa2612\\serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTMCB\\DOAN\\GOC\\SuperTank\\SuperTank\\SuperTank\\WindowsForms\\frmGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\windowsforms\\frmgamemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|D:\\LTMCB\\DOAN\\pexa2612\\serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85CD2719-5683-4238-855C-15F5994941C3}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|D:\\LTMCB\\DOAN\\pexa2612\\supertank\\objects\\wallmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F5BC8B-5D4B-4913-BD9B-C39295778F89}|SuperTank\\SuperTank.csproj|solutionrelative:supertank\\objects\\wallmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGame.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\GOC\\SuperTank\\SuperTank\\SuperTank\\WindowsForms\\frmGame.cs",
+              "RelativeDocumentMoniker": "..\\GOC\\SuperTank\\SuperTank\\SuperTank\\WindowsForms\\frmGame.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\GOC\\SuperTank\\SuperTank\\SuperTank\\WindowsForms\\frmGame.cs",
+              "RelativeToolTip": "..\\GOC\\SuperTank\\SuperTank\\SuperTank\\WindowsForms\\frmGame.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAgwKcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:11:02.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGameMulti.cs [Design]",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "RelativeDocumentMoniker": "SuperTank\\WindowsForms\\frmGameMulti.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\WindowsForms\\frmGameMulti.cs [Design]",
+              "RelativeToolTip": "SuperTank\\WindowsForms\\frmGameMulti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:10:12.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\ServerSocket\\Server.cs",
+              "RelativeDocumentMoniker": "ServerSocket\\Server.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\ServerSocket\\Server.cs",
+              "RelativeToolTip": "ServerSocket\\Server.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAMcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:29:38.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lobby.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\Lobby.cs",
+              "RelativeDocumentMoniker": "SuperTank\\Lobby.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\Lobby.cs",
+              "RelativeToolTip": "SuperTank\\Lobby.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:59:05.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\ServerSocket\\Server.cs",
+              "RelativeDocumentMoniker": "ServerSocket\\Server.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL3\\ServerSocket\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:29:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocketClient.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\SocketClient.cs",
+              "RelativeDocumentMoniker": "SuperTank\\SocketClient.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\SocketClient.cs",
+              "RelativeToolTip": "SuperTank\\SocketClient.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAgwLwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:44:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "newRoom.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\newRoom.cs",
+              "RelativeDocumentMoniker": "SuperTank\\newRoom.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\newRoom.cs",
+              "RelativeToolTip": "SuperTank\\newRoom.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAtwFkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:56:46.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "newRoom.cs [Design]",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\newRoom.cs",
+              "RelativeDocumentMoniker": "SuperTank\\newRoom.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL3\\SuperTank\\newRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:56:33.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lobby.cs [Design]",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\Lobby.cs",
+              "RelativeDocumentMoniker": "SuperTank\\Lobby.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\Lobby.cs [Design]",
+              "RelativeToolTip": "SuperTank\\Lobby.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:59:04.453Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "SuperTank\\ChatRoom.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\ChatRoom.cs",
+              "RelativeToolTip": "SuperTank\\ChatRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:56:10.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatRoom.cs [Design]",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "SuperTank\\ChatRoom.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\EPL3\\SuperTank\\ChatRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:55:49.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WallManagement.cs",
+              "DocumentMoniker": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\Objects\\WallManagement.cs",
+              "RelativeDocumentMoniker": "SuperTank\\Objects\\WallManagement.cs",
+              "ToolTip": "D:\\LTMCB\\DOAN\\pexa2612\\SuperTank\\Objects\\WallManagement.cs",
+              "RelativeToolTip": "SuperTank\\Objects\\WallManagement.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:24:02.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
